@@ -4,7 +4,7 @@
 
 :two: :scroll: I'm currently working on my Nanodegree `Data Analysis` With [Udacity](https://www.udacity.com)
 
-:three: :bar_chart: I'm interested in Data Science and Artifitial Intellegence 
+:three: :bar_chart: I'm interested in Data Science and Machine Learning 
 
 :four: I'd like to contribute more on Data Analysis projects
 
