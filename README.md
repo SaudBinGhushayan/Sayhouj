@@ -6,7 +6,7 @@
 
 :three: :bar_chart: I'm interested in Data Science and Machine Learning 
 
-:four: I'd like to contribute more on Data Analysis projects
+:four: I'd like to contribute more on Data Science projects
 
 
 
