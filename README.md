@@ -2,7 +2,7 @@
 
 :one: I'm currently studying Information Systems at King Saud University 
 
-:two: :scroll: I'm currently working on my Nanodegree `Intro to Machine Learning with Pytorch` With [Udacity](https://www.udacity.com)
+:two: :scroll: I'm currently working on developing my skills at `Data Science`
 
 :three: :bar_chart: I'm interested in Data Science and Machine Learning 
 
